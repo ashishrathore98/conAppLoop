@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\bin\Debug\ConsAppLoops.exe.config
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\bin\Debug\ConsAppLoops.exe
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\bin\Debug\ConsAppLoops.pdb
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\obj\Debug\ConsAppLoops.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\obj\Debug\ConsAppLoops.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\obj\Debug\ConsAppLoops.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\obj\Debug\ConsAppLoops.exe
+E:\Simplilearn course\Day2\ConsAppLoops\ConsAppLoops\obj\Debug\ConsAppLoops.pdb
